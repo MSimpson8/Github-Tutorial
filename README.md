@@ -1,6 +1,6 @@
 # Github-Tutorial
 
-This is the  Repository for Tutorial conducted at Collinson for github.
+This is the  Repository for Tutorial conducted at Collinson for github. - mary
 
 Following are the steps for Assignment.
 
@@ -10,3 +10,5 @@ Following are the steps for Assignment.
 4.) Create a Pull Request with the base as master branch <br/>
 5.) In the pull request add me as the reviewer <br/>
 6.) Resolve any Merge Conflicts if they arise <br/>
+
+Mary Cloned this respository
